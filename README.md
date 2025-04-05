@@ -52,6 +52,6 @@ Customer-Purchase-Behavior-Forecasting/ ├── data/ ├── notebooks/ ├
 ## 📬 Contact
 
 **Author:** Jerah  
-**LinkedIn:** [Your LinkedIn]  
-**Medium:** [Your Medium Profile]
+**LinkedIn:**   
+**Medium:** https://medium.com/@ellojerahmeel
 
