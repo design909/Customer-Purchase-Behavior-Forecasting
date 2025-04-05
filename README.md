@@ -35,7 +35,23 @@ This project analyzes transactional data from a UK-based online retail company t
 - Tableau
 - Medium (for blog post)
 
+## 📁 Project Structure
+Customer-Purchase-Behavior-Forecasting/ ├── data/ ├── notebooks/ ├── reports/ ├── dashboard/ ├── visuals/ ├── README.md └── requirements.txt
+
+
+## 📊 Final Deliverables
+
+- 📌 Data Analysis Notebook (Jupyter)
+- 📈 Interactive Tableau Dashboard
+- 📝 Business Report PDF
+- 🧾 Slide Deck for Stakeholders
+- ✍️ Medium Blog Post: "How I Uncovered Sales Insights & Forecasted Revenue Using Python"
+
 ---
 
-## 📁 Project Structure
+## 📬 Contact
+
+**Author:** Jerah  
+**LinkedIn:** [Your LinkedIn]  
+**Medium:** [Your Medium Profile]
 
